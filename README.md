@@ -81,7 +81,7 @@ To replicate the environment and run this project, follow these steps:
 ## Files Included
 
 - `Bike_Sharing_Demand_with_Sagemaker.ipynb`: Jupyter notebook with complete code and explanations.
-- `submission.csv`, `submission_new_features.csv`, `submission_new_hpo.csv`: Resulting submission files for Kaggle.
+- `report.md`: Showing the understanding and learning results of the project.
 - `model_train_score.png`, `model_test_score.png`: Visualizations of model training and test scores.
 
 ## Conclusion
